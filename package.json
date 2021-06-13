@@ -66,5 +66,10 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2",
+    "uuid": "^8.3.2"
   }
 }
